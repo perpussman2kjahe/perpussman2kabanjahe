@@ -470,9 +470,9 @@ p
 		flex-direction: row-reverse;
 	}
 	#projects .project-item {
-		height: 400px;
+		height: 20cm;
 		margin: 0;
-		width: 100%;
+		width: 300%;
 		border-radius: 0;
 	}
 	#projects .all-projects .project-info {
@@ -569,4 +569,5 @@ p
 #class="section-title"{
 	height: 10px;
 }
+
 /* End  Media Query For Desktop */
